@@ -1,13 +1,13 @@
 # PLawbench
 
 # Introduction
-Plawbench is a rubric-based benchmark for evaluating LLMs.It covers three major legal tasks—legal consultation, case analysis, and legal document drafting—spanning multiple practical domains such as personal life matters, marriage and family, legal technology, intellectual property, and criminal litigation, with the aim of evaluating the model’s capabilities in legal practice.
+PLawBench is a rubric-based benchmark designed to evaluate the performance of large language models (LLMs) in legal practice. It includes three legal tasks: legal consultation, case analysis, and legal document drafting, covering a wide range of real-world legal domains, covering personal affairs, marriage and family law, intellectual property, and criminal litigation. The benchmark aims to evaluate LLMs’ practical capabilities in handling practical legal tasks.
 
-1.In the legal consultation task, we draw on real lawyer consultations to recreate the interaction between clients and attorneys. This task tests whether the model can correctly understand users’ legal needs and identify and elicit key facts that the parties may be withholding.
-
-2.In the case analysis task, we divide each case into four parts—conclusion, facts, reasoning, and legal provisions—and design rubrics for each question. For some questions, we specify particular legal reasoning paths to evaluate the model’s legal reasoning ability in real-world cases.
-
-3.In the legal document drafting task, the model is required to draft complaints and statements of defense based on given scenarios, in order to assess its legal writing capability.
+1. In the public legal consultation task, we draw on situations commonly encountered by lawyers to recreate the interaction between clients and lawyers. This task tests whether the model can correctly understand users’ legal needs and identify and elicit key facts that the parties may be withholding.
+  
+2. In the case analysis task, each case is divided into four parts: conclusion, facts, reasoning, and applicable legal provisions. We design dedicated rubrics for each part. For selected questions, we further specify particular legal reasoning paths to evaluate the model’s ability to conduct structured and sound legal reasoning in real-world cases.
+   
+3. In the legal document drafting task,  models are required to draft legal documents (like complaints and statements of defense) based on provided scenarios. This task is intended to evaluate the model’s legal writing proficiency.
 
 Dataset Description:
 
@@ -29,15 +29,15 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 3.Task-Specific Rubrics:Our evaluation framework adopts personalized, task-specific rubrics annotated by legal experts, moving beyond purely outcome-based or form-based metrics to assess substantive legal reasoning and decision-making processes.For each type of legal task, legal experts first define a rubric framework tailored to the task’s reasoning requirements. Subsequently, they annotate case-specific rubrics for each individual legal scenario. This two-stage annotation process ensures that evaluation criteria are both principled and context-sensitive, enabling a more fine-grained,comprehensive, and realistic assessment of LLM performance in legal practice settings.
 
 # ranking
-| 模型名称                            | 准确率    |
-|------------------------------------|----------|
-| GPT5.2-1211-global                 | 68.13    |
-| GPT5-0807-global                   | 65.87    |
-| gemini3.0-pro-preview              | 65.16    |
-| claude-sonnet-4-5-20250929         | 64.20    |
-| Qwen3-max-20250923                 | 64.10    |
-| Gemini2.5-Pro-0617                 | 62.54    |
-| kimi-k2-0711-preview               | 60.64    |
-| DeepSeek-V3.2 -exp-inner           | 58.43    |
-| Qwen3-235b-a22b-thinking-2507      | 55.74    |
-| GPT-4o-0806                        | 39.26    |
+|Models                              |Scoring Rate|
+|------------------------------------|------------|
+| GPT5.2-1211-global                 | 68.13      |
+| GPT5-0807-global                   | 65.87      |
+| gemini3.0-pro-preview              | 65.16      |
+| claude-sonnet-4-5-20250929         | 64.20      |
+| Qwen3-max-20250923                 | 64.10      |
+| Gemini2.5-Pro-0617                 | 62.54      |
+| kimi-k2-0711-preview               | 60.64      |
+| DeepSeek-V3.2 -exp-inner           | 58.43      |
+| Qwen3-235b-a22b-thinking-2507      | 55.74      |
+| GPT-4o-0806                        | 39.26      |
