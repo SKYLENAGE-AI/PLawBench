@@ -41,3 +41,5 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 | DeepSeek-V3.2 -exp-inner           | 58.43      |
 | Qwen3-235b-a22b-thinking-2507      | 55.74      |
 | GPT-4o-0806                        | 39.26      |
+
+![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=ranking.png](./ranking.png)
