@@ -5,11 +5,11 @@ PLawBench is a rubric-based benchmark designed to evaluate the performance of la
 
 ![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=Overall-Framework.png](./Overall-Framework.png)
 
-1. In the public legal consultation task, we draw on situations commonly encountered by lawyers to simulate the interaction between clients and lawyers. This task tests whether the model can correctly understand users’ legal needs, thereby identifying and eliciting key facts that remain undisclosed by the parties.
+1. In the **public legal consultation task**, we draw on situations commonly encountered by lawyers to simulate the interaction between clients and lawyers. This task tests whether the model can correctly understand users’ legal needs, thereby identifying and eliciting key facts that remain undisclosed by the parties.
    
-2. In the case analysis task, each case is structured into four parts: conclusion, legal facts, reasoning, and legal provisions, with dedicated rubrics designed for each. For selected questions, we further specify particular legal reasoning paths to assess the model’s ability to conduct structured and sound legal reasoning in real-world cases.
+2. In the **case analysis task**, each case is structured into four parts: conclusion, legal facts, reasoning, and legal provisions, with dedicated rubrics designed for each. For selected questions, we further specify particular legal reasoning paths to assess the model’s ability to conduct structured and sound legal reasoning in real-world cases.
    
-3. In the legal document drafting task,  models are required to generate legal documents, such as complaints and statements of defense, based on provided scenarios. This task aims to evaluate the models' proficiency in professional legal writing.
+3. In the **legal document drafting task**,  models are required to generate legal documents, such as complaints and statements of defense, based on provided scenarios. This task aims to evaluate the models' proficiency in professional legal writing.
 
 ![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=small.png](./small.png)
 
@@ -36,7 +36,6 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 
 # Ranking
 
-<img width="1030" height="550" alt="image" src="https://github.com/user-attachments/assets/da7b97d5-2366-4365-b3a6-0a72f820d96c" />
 
 <div align="center">
 
@@ -57,7 +56,7 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 
 
 
-
+<img width="1030" height="550" alt="image" src="https://github.com/user-attachments/assets/da7b97d5-2366-4365-b3a6-0a72f820d96c" />
 
 
 <img width="1020" height="554" alt="image" src="https://github.com/user-attachments/assets/1b19cdb0-f06c-4462-94ab-7c673cf70906" />
