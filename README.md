@@ -32,7 +32,7 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 
 # Ranking
 |Models                              |Scoring Rate|
-|------------------------------------|------------|
+|:------------------------------------:|:------------:|
 | GPT5.2-1211-global                 | 68.13      |
 | GPT5-0807-global                   | 65.87      |
 | gemini3.0-pro-preview              | 65.16      |
