@@ -3,6 +3,8 @@
 # Introduction
 PLawBench is a rubric-based benchmark designed to evaluate the performance of large language models (LLMs) in legal practice. It includes three legal tasks: legal consultation, case analysis, and legal document drafting, covering a wide range of real-world legal domains such as personal affairs, marriage and family law, intellectual property, and criminal litigation. The benchmark aims to evaluate LLMs’ practical capabilities in handling practical legal tasks.
 
+![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=Overall_Framework.png](./Overall_Framework.png)
+
 1. In the public legal consultation task, we draw on situations commonly encountered by lawyers to simulate the interaction between clients and lawyers. This task tests whether the model can correctly understand users’ legal needs, thereby identifying and eliciting key facts that remain undisclosed by the parties.
    
 2. In the case analysis task, each case is structured into four parts: conclusion, legal facts, reasoning, and legal provisions, with dedicated rubrics designed for each. For selected questions, we further specify particular legal reasoning paths to assess the model’s ability to conduct structured and sound legal reasoning in real-world cases.
@@ -18,6 +20,8 @@ practical_case_analysis_250.jsonl consists of case analysis questions. We have o
 public_legal_consultation_18.json consists of legal consultation questions. We have open-sourced a total of 18 questions, including the consultation scenarios and scoring rubrics.
 
 Defendants_Statement.json and Plantiffs_Statement.json are legal writing tasks for drafting statements of defense and complaints, respectively. We have open-sourced a total of 12 questions in total, including the writing scenarios and scoring rubrics.
+
+![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=dataset-statistics.png](./dataset-statistics.png)
 
 # Contributions
 Our work makes three main contributions:
