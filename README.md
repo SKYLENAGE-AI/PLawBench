@@ -7,7 +7,7 @@ PLawBench is a rubric-based benchmark designed to evaluate the performance of la
 
 <img width="846" height="345" alt="image" src="https://github.com/user-attachments/assets/c01cf686-e5bf-4476-af0f-f879600bfdfb" />
 
-<\div>
+</div>
 
 1. In the **public legal consultation task**, we draw on situations commonly encountered by lawyers to simulate the interaction between clients and lawyers. This task tests whether the model can correctly understand users’ legal needs, thereby identifying and eliciting key facts that remain undisclosed by the parties.
    
