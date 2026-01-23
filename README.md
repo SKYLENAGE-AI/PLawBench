@@ -31,6 +31,8 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 3.Task-Specific Rubrics:Our evaluation framework adopts personalized, task-specific rubrics annotated by legal experts, moving beyond purely outcome-based or form-based metrics to assess substantive legal reasoning and decision-making processes.For each type of legal task, legal experts first define a rubric framework tailored to the task’s reasoning requirements. Subsequently, they annotate case-specific rubrics for each individual legal scenario. This two-stage annotation process ensures that evaluation criteria are both principled and context-sensitive, enabling a more fine-grained,comprehensive, and realistic assessment of LLM performance in legal practice settings.
 
 # Ranking
+
+<div align="center">
 |Models                              |Scoring Rate|
 |:------------------------------------:|:------------:|
 | GPT5.2-1211-global                 | 68.13      |
