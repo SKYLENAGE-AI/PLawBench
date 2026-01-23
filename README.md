@@ -3,7 +3,7 @@
 # Introduction
 PLawBench is a rubric-based benchmark designed to evaluate the performance of large language models (LLMs) in legal practice. It includes three legal tasks: legal consultation, case analysis, and legal document drafting, covering a wide range of real-world legal domains such as personal affairs, marriage and family law, intellectual property, and criminal litigation. The benchmark aims to evaluate LLMs’ practical capabilities in handling practical legal tasks.
 
-![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=Overall_Framework.png](./Overall_Framework.png)
+![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=Overall-Framework.png](./Overall-Framework.png)
 
 1. In the public legal consultation task, we draw on situations commonly encountered by lawyers to simulate the interaction between clients and lawyers. This task tests whether the model can correctly understand users’ legal needs, thereby identifying and eliciting key facts that remain undisclosed by the parties.
    
@@ -36,6 +36,8 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 
 # Ranking
 
+<img width="1030" height="550" alt="image" src="https://github.com/user-attachments/assets/da7b97d5-2366-4365-b3a6-0a72f820d96c" />
+
 <div align="center">
 
 | Models                         | Scoring Rate |
@@ -56,7 +58,7 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 
 
 
-<img width="1030" height="550" alt="image" src="https://github.com/user-attachments/assets/da7b97d5-2366-4365-b3a6-0a72f820d96c" />
+
 
 <img width="1020" height="554" alt="image" src="https://github.com/user-attachments/assets/1b19cdb0-f06c-4462-94ab-7c673cf70906" />
 
