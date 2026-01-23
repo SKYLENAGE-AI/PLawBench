@@ -43,6 +43,36 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 
 <div align="center">
 
+<div align="center">
+
+| Rank | Models                               | Overall |
+|:----:|--------------------------------------|:-------:|
+| 1 | **GPT-5.2-1211-global**                 | **69.67** |
+| 2 | GPT-5-0807-global                       | 67.76 |
+| 3 | Claude-opus-4-5-20251101                | 66.47 |
+| 4 | Gemini-3.0-pro-preview                  | 66.35 |
+| 5 | Claude-sonnet-4-5-20250929              | 65.88 |
+| 6 | Qwen3-max                               | 64.75 |
+| 7 | Gemini-2.5-pro                          | 64.05 |
+| 8 | Doubao-seed-1-6-250615                  | 63.88 |
+| 9 | DeepSeek-V3.2-thinking-inner            | 63.23 |
+|10 | Qwen3-235b-a22b-instruct-2507            | 63.08 |
+|11 | Qwen3-235b-a22b-thinking-2507            | 62.82 |
+|12 | Gemini-2.5-flash                        | 62.07 |
+|13 | Glm-4.6                                | 60.49 |
+|14 | DeepSeek-V3.2                          | 57.97 |
+|15 | Kimi-k2                                | 57.27 |
+|16 | Qwen3-30b-a3b-instruct-2507              | 55.73 |
+|17 | Claude-sonnet-4-20250514                | 53.55 |
+|18 | Grok-4.1-fast                          | 52.67 |
+|19 | Ernie-5.0-thinking-preview              | 51.39 |
+|20 | Qwen-4b-instruct-2507                  | 50.53 |
+|21 | Qwen3-30b-a3b-thinking-2507              | 50.29 |
+|22 | Qwen-4b-thinking-2507                  | 44.80 |
+|23 | Qwen-8b                                | 43.11 |
+|24 | GPT-4o-20240806                        | 35.76 |
+
+</div>
 
 
 </div>
