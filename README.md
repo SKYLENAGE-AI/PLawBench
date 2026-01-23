@@ -33,18 +33,21 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 # Ranking
 
 <div align="center">
-|Models                              |Scoring Rate|
-|:------------------------------------:|:------------:|
-| GPT5.2-1211-global                 | 68.13      |
-| GPT5-0807-global                   | 65.87      |
-| gemini3.0-pro-preview              | 65.16      |
-| claude-sonnet-4-5-20250929         | 64.20      |
-| Qwen3-max-20250923                 | 64.10      |
-| Gemini2.5-Pro-0617                 | 62.54      |
-| kimi-k2-0711-preview               | 60.64      |
-| DeepSeek-V3.2 -exp-inner           | 58.43      |
-| Qwen3-235b-a22b-thinking-2507      | 55.74      |
-| GPT-4o-0806                        | 39.26      |
+
+| Models                         | Scoring Rate |
+|:------------------------------:|:------------:|
+| GPT5.2-1211-global             | 68.13 |
+| GPT5-0807-global               | 65.87 |
+| gemini3.0-pro-preview          | 65.16 |
+| claude-sonnet-4-5-20250929     | 64.20 |
+| Qwen3-max-20250923             | 64.10 |
+| Gemini2.5-Pro-0617             | 62.54 |
+| kimi-k2-0711-preview           | 60.64 |
+| DeepSeek-V3.2-exp-inner        | 58.43 |
+| Qwen3-235b-a22b-thinking-2507  | 55.74 |
+| GPT-4o-0806                    | 39.26 |
+
+</div>
 
 
 
