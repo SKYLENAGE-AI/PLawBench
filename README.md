@@ -3,7 +3,8 @@
 # Introduction
 PLawBench is a rubric-based benchmark designed to evaluate the performance of large language models (LLMs) in legal practice. It includes three legal tasks: legal consultation, case analysis, and legal document drafting, covering a wide range of real-world legal domains such as personal affairs, marriage and family law, intellectual property, and criminal litigation. The benchmark aims to evaluate LLMs’ practical capabilities in handling practical legal tasks.
 
-<img width="561" height="254" alt="image" src="https://github.com/user-attachments/assets/2f392fbb-4b82-463f-8fa4-66d8859b6ef7" />
+<img width="846" height="345" alt="image" src="https://github.com/user-attachments/assets/c01cf686-e5bf-4476-af0f-f879600bfdfb" />
+
 
 
 1. In the **public legal consultation task**, we draw on situations commonly encountered by lawyers to simulate the interaction between clients and lawyers. This task tests whether the model can correctly understand users’ legal needs, thereby identifying and eliciting key facts that remain undisclosed by the parties.
