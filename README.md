@@ -43,32 +43,6 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 
 <div align="center">
 
-| Models                         | Overall |
-|:--------------------------------:|:---------:|
-| Claude-opus-4-5-20251101       | 69.67   |
-| Claude-sonnet-4-5-20250929     | 67.76   |
-| Claude-sonnet-4-20250514       | 66.47   |
-| DeepSeek-V3.2                  | 66.35   |
-| DeepSeek-V3.2-thinking-inner  | 65.88   |
-| Doubao-seed-1-6-250615         | 64.75   |
-| Ernie-5.0-thinking-preview    | 64.05   |
-| Gemini-2.5-flash               | 63.88   |
-| Gemini-2.5-pro                 | 63.23   |
-| Gemini-3.0-pro-preview         | 63.08   |
-| Qlm-4.6                        | 62.82   |
-| GPT-4o-20240806                | 62.07   |
-| GPT-5.2-1211-global            | 60.49   |
-| GPT-5-0807-global              | 57.97   |
-| Grok-4.1-fast                  | 57.27   |
-| Kimi-k2                        | 55.73   |
-| Qwen3-235b-a22b-instruct-2507  | 53.55   |
-| Qwen3-235b-a22b-thinking-2507  | 52.67   |
-| Qwen3-30b-a3b-instruct-2507    | 51.39   |
-| Qwen3-30b-a3b-thinking-2507    | 50.53   |
-| Qwen3-max                      | 50.29   |
-| Qwen-4b-instruct-2507          | 44.80   |
-| Qwen-4b-thinking-2507          | 43.11   |
-| Qwen-8b                        | 35.76   |
 
 
 </div>
