@@ -17,7 +17,7 @@ PLawBench is a rubric-based benchmark designed to evaluate the performance of la
 
 ![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=small.png](./small.png)
 
-Dataset Description:
+# Dataset Description:
 
 practical_case_analysis_250.jsonl consists of case analysis questions. We have open-sourced a total of 250 questions, including the questions, reference answers, scoring rubrics, and score sheets. 
 
