@@ -45,3 +45,6 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 | GPT-4o-0806                        | 39.26      |
 
 ![https://github.com/skylenage/PLawbench/edit/main/README.md#:~:text=ranking.png](./ranking.png)
+
+<img width="1030" height="550" alt="image" src="https://github.com/user-attachments/assets/da7b97d5-2366-4365-b3a6-0a72f820d96c" />
+
