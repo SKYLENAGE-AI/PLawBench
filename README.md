@@ -44,8 +44,8 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 
 <div align="center">
 
-| Family | Models | Overall | Task2 Avg | Conclusion | Facts | Reasoning | Statute | Task1 | Task3 Avg | Plaintiff | Defendant |
-|------|--------|--------:|----------:|-----------:|------:|----------:|--------:|------:|----------:|----------:|----------:|
+| Family | Model | Overall | Task2-Avg | Task2-Conclusion | Task2-Facts | Task2-Reasoning | Task2-Statute | Task1 | Task3-Avg | Task3-Plaintiff | Task3-Defendant |
+|--------|-------|--------:|----------:|-----------------:|------------:|---------------:|--------------:|------:|----------:|----------------:|----------------:|
 | Claude | Claude-sonnet-4-20250514 | 53.55 | 55.91 | 62.57 | 79.75 | 49.54 | 35.66 | 58.24 | 46.48 | 39.60 | 53.35 |
 | Claude | Claude-sonnet-4-5-20250929 | 65.88 | 67.57 | 67.61 | 88.32 | 64.05 | 47.22 | 70.98 | 59.67 | 52.05 | 67.29 |
 | Claude | Claude-opus-4-5-20251101 | 66.47 | **68.00** | 69.82 | 83.61 | **65.49** | **53.61** | 68.92 | 62.27 | 56.54 | 68.01 |
@@ -70,6 +70,7 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 | Qwen | Qwen3-235b-a22b-instruct-2507 | 63.08 | 65.57 | 64.34 | **91.90** | 60.07 | 42.52 | 67.79 | 55.78 | 42.04 | 69.51 |
 | Qwen | Qwen3-235b-a22b-thinking-2507 | 62.82 | 64.26 | 64.39 | 88.68 | 59.93 | 41.97 | 61.32 | 61.41 | 51.95 | 70.86 |
 | Qwen | Qwen3-max | 64.75 | 67.17 | 67.52 | 90.97 | 62.75 | 45.10 | 75.76 | 53.38 | 49.33 | 57.43 |
+
 
 </div>
 
