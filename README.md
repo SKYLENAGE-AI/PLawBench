@@ -41,7 +41,6 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 # Ranking
 
 
-<div align="center">
 
 <div align="center">
 
@@ -75,7 +74,6 @@ In real legal practice, user queries are often vague, logically inconsistent, em
 </div>
 
 
-</div>
 
 
 
