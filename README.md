@@ -1,4 +1,4 @@
-# PLawbench: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice
+# PLawBench: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice
 
 # Introduction
 PLawBench is a rubric-based benchmark designed to evaluate the performance of large language models (LLMs) in legal practice. It includes three legal tasks: legal consultation, case analysis, and legal document drafting, covering a wide range of real-world legal domains such as personal affairs, marriage and family law, intellectual property, and criminal litigation. The benchmark aims to evaluate LLMs’ practical capabilities in handling practical legal tasks.
